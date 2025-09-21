@@ -1,2 +1,2 @@
 # AllGames
-AllGames, projeto ainda em desenvolvimento
+Projeto ainda em desenvolvimento
